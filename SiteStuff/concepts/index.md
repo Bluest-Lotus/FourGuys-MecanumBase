@@ -1,6 +1,6 @@
 ### Index
 
-- [Mecanum](SiteStuff/concepts/Mecanum/index.md)
+- [Mecanum](Mecanum/index.md)
 
 Vision
 
