@@ -1,3 +1,5 @@
+## Mecanum
+
 ### Hardware 
 
 The [mecanum wheel](https://en.wikipedia.org/wiki/Mecanum_wheel) is the magic behind the omni directional movement of this project.
@@ -7,5 +9,7 @@ The [mecanum wheel](https://en.wikipedia.org/wiki/Mecanum_wheel) is the magic be
 
 ### Software
 
+Mecanum 
 ![Mecanum chasis diagram.](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgm0.org%2Fen%2Flatest%2F_images%2Fmecanum-drive-force-diagram.png&f=1&nofb=1&ipt=0bcb8d050249c36d2632fc77d79e0e8490ec6b23b7f9bffb85a180fe29e6ed6d&ipo=images)
+[A short video on programing mecanum based dirve.](https://www.youtube.com/watch?v=gnSW2QpkGXQ)
 
