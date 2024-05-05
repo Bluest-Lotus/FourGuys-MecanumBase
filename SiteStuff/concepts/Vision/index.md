@@ -15,5 +15,5 @@ Classic Apriltags have a code in the center and a white boorder.
 
 The heavy lifter of the vision software is [Open CV](https://opencv.org/). This library allows for integration of object detection, computer vision, and ai powered vision projects within coding projects.
 
-![Mecanum chasis diagram.](https://opencv.org/wp-content/uploads/2022/05/logo.png)
+![Open CV](https://opencv.org/wp-content/uploads/2022/05/logo.png)
 
